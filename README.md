@@ -22,4 +22,4 @@ npm install
 npm run dev
 
 ## 🌐 Link da aplicação
-(colocar após deploy)
+https://atividade-login-kappa.vercel.app/
