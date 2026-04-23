@@ -25,9 +25,10 @@ function Sobre({ user }: Props) {
 
       <div>
         <h2>Integrante 1</h2>
-        <p>Nome: Ruan</p>
-        <p>Interesses: Programação, treino, tecnologia</p>
-        <p>Habilidades: HTML, CSS, JavaScript</p>
+        <p><strong>Nome:</strong> Ruan de Oliveira Alves</p>
+        <p><strong>Interesses:</strong> Programação, treino, tecnologia e mundo geek/nerd</p>
+        <p><strong>Habilidades:</strong> HTML, CSS e JavaScript (em aprendizado)</p>
+        <p> Atualmente estou focado em desenvolver projetos web para praticar e evoluir minhas habilidades como desenvolvedor iniciante.</p>
       </div>
 
       <div>
