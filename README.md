@@ -11,7 +11,7 @@ Aplicação web desenvolvida em React que permite login com conta Google e cadas
 
 ## 👥 Integrantes
 - Ruan
-- (nome da dupla)
+- João
 
 ## ⚙️ Como executar o projeto
 
