@@ -33,9 +33,10 @@ function Sobre({ user }: Props) {
 
       <div>
         <h2>Integrante 2</h2>
-        <p>Nome: Fulano</p>
-        <p>Interesses: ...</p>
-        <p>Habilidades: ...</p>
+        <p><strong>Nome:</strong> João Pedro</p>
+        <p><strong>Interesses:</strong> Programação, investimentos, artes</p>
+        <p><strong>Habilidades:</strong> HTML, CSS, JavaScript</p>
+        <p> Busco constantemente evoluir na área de desenvolvimento digital, explorando novas tecnologias para me tornar um programador cada vez mais eficiente.</p>
       </div>
     </div>
   );
